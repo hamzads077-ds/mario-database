@@ -1,6 +1,6 @@
 ﻿# 🍄 Mario Database Project
 
-This repository contains the complete PostgreSQL database dump for the **Mario Database** project.
+This repository contains the complete PostgreSQL database workshop dump for the **Mario Database** project.
 
 ## 📌 Project Overview
 This project is built using PostgreSQL to practice relational database concepts, including:
