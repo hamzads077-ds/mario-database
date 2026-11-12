@@ -441,5 +441,6 @@ ALTER TABLE ONLY public.sounds
 -- PostgreSQL database dump complete
 --
 
-- -   E n d   o f   M a r i o   D a t a b a s e   S c r i p t  
+- -   E n d   o f   M a r i o   D a t a b a s e   S c r i p t 
+ 
  
